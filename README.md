@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Mudasir Murtaza</h1>
 <h3 align="center">A passionate Project Manager from Pakistan.</h3>
 <img allign="left" alt="Coding" width="400" src="https://github.com/user-attachments/assets/b33e112d-834a-43f0-8960-e06e37ce9cc2"
