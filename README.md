@@ -30,6 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudasirmurtaza&" alt="mudasirmurtaza" /></p>
 
+[![An image of @mudasirmurtaza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mudasirmurtaza)](https://holopin.io/@mudasirmurtaza)
 
 <!--
 **mudasirmurtaza/mudasirmurtaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
