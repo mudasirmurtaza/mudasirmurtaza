@@ -10,9 +10,9 @@
 
 - 📝 I regularly write articles on [mudasirmurtaza20](https://medium.com/@mudasirmurtaza20)
 
-- 📫 How to reach me **mudasirmurtaza20@gmail.com**
+- 📫 Reach out to me **mudasirmurtaza20@gmail.com**
 
-- 📄 Know about my experiences [by downloading my resume](https://drive.google.com/file/d/1ji8CGr86PBWCM4tEpHW4MslTlHtfWhPI/view?usp=sharing)
+<!-- - 📄 Know about my experiences [by downloading my resume](https://drive.google.com/file/d/1ji8CGr86PBWCM4tEpHW4MslTlHtfWhPI/view?usp=sharing) -->
 
 <br>
 <h3 align="left">Connect with me:</h3>
