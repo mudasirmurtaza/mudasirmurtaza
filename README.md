@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudasirmurtaza&label=Profile%20views&color=0e75b6&style=flat" alt="mudasirmurtaza" /> </p>
 
-- 🌱 I’m currently learning **Cpp, DSA, Python, Azure, AI**
+- 🌱 I’m currently learning **Cpp, DSA, Python, Azure, and AI**
 
 - 📝 I regularly write articles on [mudasirmurtaza20](https://medium.com/@mudasirmurtaza20)
 
